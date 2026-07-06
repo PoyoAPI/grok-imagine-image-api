@@ -9,7 +9,7 @@ Focused server-side examples for building with `grok-imagine-image` on PoYo.
 
 Grok Imagine Image is useful for visual quality tests, thumbnails, social assets, and product concept images.
 
-[Model Page](https://poyo.ai/models/grok-imagine) | [Docs](https://docs.poyo.ai/api-manual/image-series/grok-imagine) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/grok-imagine) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/image-series/grok-imagine) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
